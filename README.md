@@ -14,7 +14,7 @@
 
 
 ## Tasks
-1. Make a fork of this repository and push your commits to this fork. You can delete this fork after the interview. When you're finished, Create a pull request from your fork into the *interview* branch of the master repository.
+1. Make a fork of this repository and push your commits to this fork. You can delete this fork after the interview. When you're finished, Create a pull request from your fork into the *interview* branch of this repository.
 2. Using the language of your choice, read the `house_data.json` file, and print the top-level keys to __stderr__.
 3. Having read the file, help readability by writing the data to a tabular file format such as CSV.
 4. Design a database schema to store the data, and save the data in a database.
