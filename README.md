@@ -3,7 +3,7 @@
  The following tasks assess ability to manage data files effectively.
  While the tasks may seem simple, a strong emphasis will be placed on code reusability and readability.
  
- - Using comments note any assumptions made, improvements noted etc.
+ Using comments note any assumptions made, improvements noted etc.
 
 ## Tasks
 1. Using the language of your choice, read the `data.json` file, and print the top-level keys to __stderr__.
