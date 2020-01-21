@@ -1,306 +1,306 @@
 {
     "House 0": {
-        "ID": 552.0,
+        "ID": 552,
         "Cost": 14.0,
         "Distance to work": 1470.0,
         "Area": 33.2,
-        "beds": 3,
-        "garden size": 0
-    },
-    "House 1": {
-        "ID": 693.0,
-        "Cost": 9.0,
-        "Distance to work": 1510.0,
-        "Area": 8.51,
         "beds": 2,
         "garden size": 4
     },
+    "House 1": {
+        "ID": 693,
+        "Cost": 9.0,
+        "Distance to work": 1510.0,
+        "Area": 8.51,
+        "beds": 4,
+        "garden size": 5
+    },
     "House 2": {
-        "ID": 789.0,
+        "ID": 789,
         "Cost": 19.0,
         "Distance to work": 1380.0,
         "Area": 35.5,
-        "beds": 3,
-        "garden size": 7
+        "beds": 2,
+        "garden size": 2
     },
     "House 3": {
-        "ID": 882.0,
+        "ID": 882,
         "Cost": 9.0,
         "Distance to work": 1500.0,
         "Area": 0.225,
-        "beds": 3,
-        "garden size": 3
+        "beds": 2,
+        "garden size": 2
     },
     "House 4": {
-        "ID": 960.0,
+        "ID": 960,
         "Cost": 8.0,
         "Distance to work": 1560.0,
         "Area": 30.6,
         "beds": 4,
-        "garden size": 6
+        "garden size": 4
     },
     "House 5": {
-        "ID": 977.0,
+        "ID": 977,
         "Cost": 14.0,
         "Distance to work": 1410.0,
         "Area": 29.9,
-        "beds": 3,
-        "garden size": 4
+        "beds": 4,
+        "garden size": 2
     },
     "House 6": {
-        "ID": 1041.0,
+        "ID": 1041,
         "Cost": 8.0,
         "Distance to work": 1520.0,
         "Area": 0.44799999999999995,
-        "beds": 2,
-        "garden size": 6
+        "beds": 4,
+        "garden size": 3
     },
     "House 7": {
-        "ID": 1076.0,
+        "ID": 1076,
         "Cost": 29.0,
         "Distance to work": 1320.0,
         "Area": 48.6,
-        "beds": 4,
-        "garden size": 0
+        "beds": 2,
+        "garden size": 6
     },
     "House 8": {
-        "ID": 1089.0,
+        "ID": 1089,
         "Cost": 16.0,
         "Distance to work": 1390.0,
         "Area": 27.2,
         "beds": 2,
-        "garden size": 9
+        "garden size": 2
     },
     "House 9": {
-        "ID": 1096.0,
+        "ID": 1096,
         "Cost": 9.0,
         "Distance to work": 1530.0,
         "Area": 24.9,
-        "beds": 3,
-        "garden size": 8
+        "beds": 2,
+        "garden size": 3
     },
     "House 10": {
-        "ID": 1137.0,
+        "ID": 1137,
         "Cost": 22.0,
         "Distance to work": 1350.0,
         "Area": 36.4,
-        "beds": 2,
-        "garden size": 0
+        "beds": 4,
+        "garden size": 5
     },
     "House 11": {
-        "ID": 1145.0,
+        "ID": 1145,
         "Cost": 10.0,
         "Distance to work": 1470.0,
         "Area": 1.47,
-        "beds": 3,
-        "garden size": 8
+        "beds": 4,
+        "garden size": 5
     },
     "House 12": {
-        "ID": 1156.0,
+        "ID": 1156,
         "Cost": 17.0,
         "Distance to work": 1380.0,
         "Area": 27.1,
-        "beds": 3,
-        "garden size": 8
+        "beds": 4,
+        "garden size": 9
     },
     "House 13": {
-        "ID": 1180.0,
+        "ID": 1180,
         "Cost": 18.0,
         "Distance to work": 1370.0,
         "Area": 13.7,
         "beds": 2,
-        "garden size": 6
+        "garden size": 4
     },
     "House 14": {
-        "ID": 1185.0,
+        "ID": 1185,
         "Cost": 11.0,
         "Distance to work": 1450.0,
         "Area": 13.1,
-        "beds": 3,
-        "garden size": 2
+        "beds": 4,
+        "garden size": 9
     },
     "House 15": {
-        "ID": 1198.0,
+        "ID": 1198,
         "Cost": 33.0,
         "Distance to work": 1300.0,
         "Area": 33.1,
-        "beds": 2,
-        "garden size": 7
+        "beds": 4,
+        "garden size": 2
     },
     "House 16": {
-        "ID": 1222.0,
+        "ID": 1222,
         "Cost": 10.0,
         "Distance to work": 1500.0,
         "Area": 23.3,
-        "beds": 2,
-        "garden size": 1
+        "beds": 4,
+        "garden size": 2
     },
     "House 17": {
-        "ID": 1232.0,
+        "ID": 1232,
         "Cost": 27.0,
         "Distance to work": 1320.0,
         "Area": 41.9,
         "beds": 4,
-        "garden size": 9
+        "garden size": 4
     },
     "House 18": {
-        "ID": 1288.0,
+        "ID": 1288,
         "Cost": 46.0,
         "Distance to work": 1280.0,
         "Area": 5.55,
         "beds": 4,
-        "garden size": 2
+        "garden size": 0
     },
     "House 19": {
-        "ID": 1291.0,
+        "ID": 1291,
         "Cost": 9.0,
         "Distance to work": 1520.0,
         "Area": 10.0,
-        "beds": 4,
-        "garden size": 5
+        "beds": 2,
+        "garden size": 2
     },
     "House 20": {
-        "ID": 1305.0,
+        "ID": 1305,
         "Cost": 25.0,
         "Distance to work": 1330.0,
         "Area": 40.8,
         "beds": 2,
-        "garden size": 9
+        "garden size": 3
     },
     "House 21": {
-        "ID": 1329.0,
+        "ID": 1329,
         "Cost": 8.0,
         "Distance to work": 1540.0,
         "Area": 24.6,
-        "beds": 3,
-        "garden size": 5
+        "beds": 2,
+        "garden size": 0
     },
     "House 22": {
-        "ID": 1361.0,
+        "ID": 1361,
         "Cost": 7.0,
         "Distance to work": 1560.0,
         "Area": 13.5,
         "beds": 4,
-        "garden size": 7
+        "garden size": 9
     },
     "House 23": {
-        "ID": 1362.0,
+        "ID": 1362,
         "Cost": 11.0,
         "Distance to work": 1480.0,
         "Area": 22.4,
-        "beds": 2,
-        "garden size": 2
+        "beds": 3,
+        "garden size": 4
     },
     "House 24": {
-        "ID": 1364.0,
+        "ID": 1364,
         "Cost": 34.0,
         "Distance to work": 1300.0,
         "Area": 37.4,
-        "beds": 2,
-        "garden size": 4
+        "beds": 4,
+        "garden size": 6
     },
     "House 25": {
-        "ID": 1382.0,
+        "ID": 1382,
         "Cost": 30.0,
         "Distance to work": 1310.0,
         "Area": 46.6,
-        "beds": 2,
-        "garden size": 4
+        "beds": 3,
+        "garden size": 6
     },
     "House 26": {
-        "ID": 1390.0,
+        "ID": 1390,
         "Cost": 23.0,
         "Distance to work": 1340.0,
         "Area": 40.2,
         "beds": 3,
-        "garden size": 0
+        "garden size": 1
     },
     "House 27": {
-        "ID": 1411.0,
+        "ID": 1411,
         "Cost": 17.0,
         "Distance to work": 1400.0,
         "Area": 35.1,
-        "beds": 2,
+        "beds": 4,
         "garden size": 0
     },
     "House 28": {
-        "ID": 1413.0,
+        "ID": 1413,
         "Cost": 20.0,
         "Distance to work": 1360.0,
         "Area": 39.3,
-        "beds": 4,
-        "garden size": 1
-    },
-    "House 29": {
-        "ID": 1427.0,
-        "Cost": 24.0,
-        "Distance to work": 1340.0,
-        "Area": 44.5,
-        "beds": 3,
-        "garden size": 7
-    },
-    "House 30": {
-        "ID": 1428.0,
-        "Cost": 15.0,
-        "Distance to work": 1400.0,
-        "Area": 28.5,
         "beds": 3,
         "garden size": 6
     },
+    "House 29": {
+        "ID": 1427,
+        "Cost": 24.0,
+        "Distance to work": 1340.0,
+        "Area": 44.5,
+        "beds": 2,
+        "garden size": 3
+    },
+    "House 30": {
+        "ID": 1428,
+        "Cost": 15.0,
+        "Distance to work": 1400.0,
+        "Area": 28.5,
+        "beds": 2,
+        "garden size": 3
+    },
     "House 31": {
-        "ID": 1458.0,
+        "ID": 1458,
         "Cost": 18.0,
         "Distance to work": 1390.0,
         "Area": 44.9,
         "beds": 4,
-        "garden size": 2
+        "garden size": 3
     },
     "House 32": {
-        "ID": 1460.0,
+        "ID": 1460,
         "Cost": 16.0,
         "Distance to work": 1420.0,
         "Area": 33.5,
-        "beds": 4,
-        "garden size": 0
+        "beds": 2,
+        "garden size": 5
     },
     "House 33": {
-        "ID": 1467.0,
+        "ID": 1467,
         "Cost": 37.0,
         "Distance to work": 1290.0,
         "Area": 31.2,
         "beds": 3,
-        "garden size": 0
+        "garden size": 1
     },
     "House 34": {
-        "ID": 1489.0,
+        "ID": 1489,
         "Cost": 13.0,
         "Distance to work": 1430.0,
         "Area": 27.5,
         "beds": 2,
-        "garden size": 7
+        "garden size": 5
     },
     "House 35": {
-        "ID": 1568.0,
+        "ID": 1568,
         "Cost": 26.0,
         "Distance to work": 1330.0,
         "Area": 45.6,
         "beds": 4,
-        "garden size": 6
+        "garden size": 0
     },
     "House 36": {
-        "ID": 1802.0,
+        "ID": 1802,
         "Cost": 10.0,
         "Distance to work": 1480.0,
         "Area": 11.9,
-        "beds": 4,
-        "garden size": 8
+        "beds": 2,
+        "garden size": 1
     },
     "House 37": {
-        "ID": 1816.0,
+        "ID": 1816,
         "Cost": 12.0,
         "Distance to work": 1440.0,
         "Area": 27.6,
         "beds": 2,
-        "garden size": 8
+        "garden size": 5
     }
 }
