@@ -21,7 +21,6 @@
 5. Create an API which will read the data from the database and return it.
 6. Write a simple web front-end which accesses the API and displays the requested data.
 7. How could we help the user make a decision by allowing them to visualise the trade-offs between the houses? Create a graph which will demonstrate this.
-8.
 
 - Before you begin, read all the tasks so you can plan your approach
 - You have __3 hours__ to get as far as you can into this task.
