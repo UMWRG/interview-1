@@ -14,7 +14,7 @@
 
 
 ## Tasks
-1. Make a branch of master and push your commits to this branch. This branch will be deleted after the interview.
+1. Make a fork of this repository and push your commits to this fork. You can delete this fork after the interview.
 2. Using the language of your choice, read the `house_data.json` file, and print the top-level keys to __stderr__.
 3. Having read the file, help readability by writing the data to a tabular file format such as CSV.
 4. Design a database schema to store the data, and save the data in a database.
