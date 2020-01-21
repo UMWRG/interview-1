@@ -14,13 +14,15 @@
 
 
 ## Tasks
+### Most important
 1. Make a fork of this repository and push your commits to this fork. You can delete this fork after the interview. When you're finished, Create a pull request from your fork into the *interview* branch of this repository.
 2. Using the language of your choice, read the `house_data.json` file, and print the top-level keys to __stderr__.
 3. Having read the file, help readability by writing the data to a tabular file format such as CSV.
 4. Design a database schema to store the data, and save the data in a database.
 5. Create an API which will read the data from the database and return it.
+### Nice to have
 6. Write a simple web front-end which accesses the API and displays the requested data.
-7. How could we help the user make a decision by allowing them to visualise the trade-offs between the houses? Create a graph which will demonstrate this.
+7. How could we help the user make a decision by allowing them to visualise the trade-offs between the houses? Create a graph or chart which will demonstrate this.
 
 - Before you begin, read all the tasks so you can plan your approach
 - You have __3 hours__ to get as far as you can into this task.
